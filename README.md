@@ -61,27 +61,27 @@ https://www.youtube.com/channel/UCJUpqYQ9JLW308FV42xIUHQ
 - Respect web programming standards;
 - Apply concepts in Web accessibility (WCAG 2.0 standard);
 ### Affecting databases:
-Good knowledge of MySQL (MariaDB):
-Design a MySQL database;
-Perform efficient SQL queries on a MySQL database;
-Operate a MongoDB database through a web or native application;
-Good knowledge of MongoDB:
-Design and query a MongoDB database;
-Operate a MongoDB database through a web application;
-Good knowledge of Firebase and its tools:
-Design and query a Cloud Firestore / Realtime Database;
-Operate a Firebase database through a web application;
-File management with Firebase Storage;
-User authentication with Firebase Auth;
-Deployment of web applications with Firebase Hosting;
-Concerning installation and configuration:
-Install and configure operating systems (Windows and Linux);
-Install and configure web servers;
-Install database management systems (MySQL and MongoDB);
-Install and configure network computer equipment and stations;
-Other subjects:
-Work with the Git version manager;
-Understand and analyze a situation in order to provide an IT solution;
-Provide support to users (technical support);
-Manage a local network operating in client - server mode;
-Development of Discord bots (JavaScript or Python).
+- Good knowledge of MySQL (MariaDB):
+  - Design a MySQL database;
+  - Perform efficient SQL queries on a MySQL database;
+  - Operate a MongoDB database through a web or native application;
+- Good knowledge of MongoDB:
+  - Design and query a MongoDB database;
+  - Operate a MongoDB database through a web application;
+- Good knowledge of Firebase and its tools:
+  - Design and query a Cloud Firestore / Realtime Database;
+  - Operate a Firebase database through a web application;
+  - File management with Firebase Storage;
+  - User authentication with Firebase Auth;
+  - Deployment of web applications with Firebase Hosting;
+### Concerning installation and configuration:
+- Install and configure operating systems (Windows and Linux);
+- Install and configure web servers;
+- Install database management systems (MySQL and MongoDB);
+- Install and configure network computer equipment and stations;
+### Other subjects:
+- Work with the Git version manager;
+- Understand and analyze a situation in order to provide an IT solution;
+- Provide support to users (technical support);
+- Manage a local network operating in client - server mode;
+- Development of Discord bots (JavaScript or Python).
