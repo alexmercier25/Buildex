@@ -25,7 +25,7 @@ I also have a french youtube channel where I mostly make Roblox programming tuto
 https://www.youtube.com/channel/UCJUpqYQ9JLW308FV42xIUHQ
 
 ## Skills
-### Concerning programming in general:
+### Concerning programming in general
 - Programming in different languages;
   - C #, JavaScript, Python, Java, Dart, Lua;
 - Use and configure integrated development environments;
@@ -41,7 +41,7 @@ https://www.youtube.com/channel/UCJUpqYQ9JLW308FV42xIUHQ
   - iOS (Flutter);
 - Do code review;
 - Design automated tests (unit and functional);
-### Specifically concerning web programming:
+### Specifically concerning web programming
 - Do front-end and back-end web development;
 - Design well-structured web interfaces;
 - Build a responsive website;
@@ -60,7 +60,7 @@ https://www.youtube.com/channel/UCJUpqYQ9JLW308FV42xIUHQ
 - Configure a domain name and deploy web applications;
 - Respect web programming standards;
 - Apply concepts in Web accessibility (WCAG 2.0 standard);
-### Affecting databases:
+### Affecting databases
 - Good knowledge of MySQL (MariaDB):
   - Design a MySQL database;
   - Perform efficient SQL queries on a MySQL database;
@@ -74,12 +74,12 @@ https://www.youtube.com/channel/UCJUpqYQ9JLW308FV42xIUHQ
   - File management with Firebase Storage;
   - User authentication with Firebase Auth;
   - Deployment of web applications with Firebase Hosting;
-### Concerning installation and configuration:
+### Concerning installation and configuration
 - Install and configure operating systems (Windows and Linux);
 - Install and configure web servers;
 - Install database management systems (MySQL and MongoDB);
 - Install and configure network computer equipment and stations;
-### Other subjects:
+### Other subjects
 - Work with the Git version manager;
 - Understand and analyze a situation in order to provide an IT solution;
 - Provide support to users (technical support);
