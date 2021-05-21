@@ -86,3 +86,5 @@ https://www.youtube.com/channel/UCJUpqYQ9JLW308FV42xIUHQ
 - Provide support to users (technical support);
 - Manage a local network operating in client - server mode;
 - Development of Discord bots (JavaScript or Python).
+
+![Buildex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buildex&show_icons=true&theme=radical)
